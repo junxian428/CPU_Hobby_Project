@@ -12,6 +12,8 @@
 
 ![image](https://github.com/junxian428/CPU_Hobby_Project/assets/58724748/1bc4096f-6229-4779-9f78-80db4695b4a4)
 
+![image](https://github.com/junxian428/CPU_Hobby_Project/assets/58724748/5a521fe1-dd40-490f-82e2-b4a95feb2bd8)
+
 
 32 bits CPU
 
